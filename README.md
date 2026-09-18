@@ -1,2 +1,2 @@
 # My-first-repo
-Test repo <b>Hello World<\b>
+Test repo <b>Hello World</b>
